@@ -68,21 +68,28 @@
   <img height="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" alt="Claude logo">
 </p>
 
-<h2 align="center">Reach me on</h2>
+<h2 align="center">Connect with me 🌐</h2>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
   <a href="mailto:danielaperezagualimpiat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
+         alt="Gmail" height="40" />
   </a>
-  
-  <a href="www.linkedin.com/in/daniela-perez-5a0425341" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+  <a href="https://www.linkedin.com/in/daniela-perez-5a0425341" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+         alt="LinkedIn" height="40" />
   </a>
+
   <a href="https://wa.me/573206499702" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" 
+         alt="WhatsApp" height="40" />
   </a>
 
   <a href="https://www.instagram.com/whos.danx/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
+         alt="Instagram" height="40" />
   </a>
+
 </p>
