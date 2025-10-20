@@ -68,6 +68,8 @@
   <img height="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" alt="Claude logo">
 </p>
 
+<br>
+
 <h2 align="center">Connect with me 🌐</h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
