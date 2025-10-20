@@ -59,6 +59,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI logo">
+  <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLnMi5MJXaXejA3JsK8FXxqYimBSX7QHfkWBoD09cURiWFYwKBPcqKsp_Kfb1wgAc4z4&usqp=CAU" alt="LookerStudio logo">
   <img height="50" src="https://logos-world.net/wp-content/uploads/2023/12/Google-Workspace-Symbol.png" alt="Google Workspace logo">
   <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2-tIBYk2WuRQ5a6ph298dHRGON8tGJOxqg&s" alt="Microsoft 365 logo">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion logo">
@@ -83,6 +84,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=danielaPerezA&show_icons=true&theme=dark" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaPerezA&layout=compact&theme=dark" height="150"/>
 </p>
+
+<h3>Data Analysis Dashboard</h3>
+<p align="center">
+  <a href="https://lookerstudio.google.com/s/k76a-IMixIk" target="_blank">
+    <img src="https://www.altostratus.es/wp-content/uploads/looker_logo_horizontal_fullcolor_reverse-1.png" 
+         alt="Looker Studio logo" height="60">
+  </a>
+</p>
+<p align="center">
+  <samp>Click the logo to explore my interactive data analysis dashboard built with Google Looker Studio.</samp>
+</p>
+
+<br>
 
 <h4 align="center">✨ "Automation is not just coding, it's creating efficiency and precision." ✨</h4>
 
