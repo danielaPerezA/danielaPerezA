@@ -68,6 +68,24 @@
   <img height="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude.png" alt="Claude logo">
 </p>
 
+<h3>Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/danielaPerezA/Automation-Framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielaPerezA&repo=Automation-Framework&theme=dark" />
+  </a>
+  <a href="https://github.com/danielaPerezA/Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielaPerezA&repo=Data-Analysis&theme=dark" />
+  </a>
+</p>
+
+<h3>GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielaPerezA&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaPerezA&layout=compact&theme=dark" height="150"/>
+</p>
+
+<h4 align="center">✨ "Automation is not just coding, it's creating efficiency and precision." ✨</h4>
+
 <br>
 
 <h2 align="center">Connect with me 🌐</h2>
